@@ -1,7 +1,7 @@
 # Script generated with create_pkgbuild.py
 # For more information: https://github.com/ros-melodic-arch/ros-build-tools-py3
 pkgdesc="ROS - This package contains the source code for testing and comparing trac_ik."
-url='http://www.ros.org/'
+url='http://wiki.ros.org/trac_ik_examples'
 
 pkgname='ros-melodic-trac-ik-examples'
 pkgver='1.5.1'
